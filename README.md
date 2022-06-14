@@ -6,4 +6,4 @@ Contains my practice problems on various important python libraries
 Language Used: Python
 
 
-Libraries: Pandas, Numpy
+Libraries: Pandas, Numpy, Matplotlib, Scikit-learn
